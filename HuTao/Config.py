@@ -28,6 +28,6 @@ LOG_CHANNEL_ID = -1001816188874 #LOG GROUP ID FOR YOUR BOT
 
 OWNER = list({int(x)for x in ("6149191605").split()}) #OWNER ID
 
-DB_URL = "" # MONGO DB URL
+DB_URL = "mongodb+srv://shekharhatture:kUi2wj2wKxyUbbG1@cluster0.od4v7eo.mongodb.net/?retryWrites=true&w=majority" # MONGO DB URL
 
-SQL_URL = "" # ELEPHANT SQL URL
+SQL_URL = "postgres://dfoicjez:fn9pjJgBY6x0rfTme5f37MRKmClTjo4p@silly.db.elephantsql.com/dfoicjez" # ELEPHANT SQL URL
